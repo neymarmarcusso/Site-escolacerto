@@ -1,0 +1,23 @@
+header { 
+    background-color: #383d58;
+    color: white;
+  }  
+
+.cabeçalho-imagem{ 
+
+    width: 20%;
+
+}   
+
+.cabeçalho { 
+    background-color: #383d58
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+    .cabeçalho-lista-item [ 
+        display: inline-block;
+        margin
+    ]
